@@ -179,7 +179,7 @@ margin-top:40px;
 <!-- NAVBAR -->
 <nav>
   <div class="nav-brand">
-    <img src="C:\Users\peternyutu\Desktop\UoE Projects" alt="University of Eldoret Logo" class="logo">
+    <img src="unnamed.png" alt="University of Eldoret Logo" class="logo">
     <strong>UNIVERSITY OF ELDORET DEAN OF STUDENT'S PORTAL</strong>
   </div>
 
@@ -193,7 +193,7 @@ margin-top:40px;
 <!-- HOME -->
 <section id="home" class="active">
 <header>
-  <img src="C:\Users\peternyutu\Desktop\UoE Projects" alt="University of Eldoret Logo" style="height:90px;margin-bottom:15px;">
+  <img src="unnamed.png" alt="University of Eldoret Logo" style="height:90px;margin-bottom:15px;">
   <h1>Student Applications Portal Dean Of Student's Office</h1>
   <p>Login to access applications</p>
 </header>
