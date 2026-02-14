@@ -230,45 +230,228 @@ margin-top:40px;
 
 <div class="container">
 
+<!-- DEAN OF STUDENTS DEPARTMENT -->
 <div class="card">
 <h3>APPOINTMENT WITH DEAN OF STUDENT'S</h3>
-<a class="btn" href="https://forms.gle/2BnvPARC8KKNNiie8" target="_blank">Open</a>
+<button class="btn btn-department" data-department="dean">Visit Dean's Department</button>
+<div class="department-forms" id="dean-forms" style="display: none;">
+  <div class="form-item">
+    <p>Academic Appeal</p>
+    <a class="btn btn-form" href="https://forms.gle/2BnvPARC8KKNNiie8" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Disciplinary Appeal</p>
+    <a class="btn btn-form" href="https://forms.gle/2BnvPARC8KKNNiie8" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Student Grievance</p>
+    <a class="btn btn-form" href="https://forms.gle/2BnvPARC8KKNNiie8" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Leave of Absence</p>
+    <a class="btn btn-form" href="https://forms.gle/2BnvPARC8KKNNiie8" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Special Request</p>
+    <a class="btn btn-form" href="https://forms.gle/2BnvPARC8KKNNiie8" target="_blank">Open Form</a>
+  </div>
+</div>
 </div>
 
+<!-- COUNSELLING DEPARTMENT -->
 <div class="card">
-<h3>Visit the Counselling Department</h3>
-<a class="btn" href="https://forms.gle/3V3jqjwN2tgtki4m6" target="_blank">Open</a>
+<h3>Counselling Department</h3>
+<button class="btn btn-department" data-department="counselling">Visit Counselling Department</button>
+<div class="department-forms" id="counselling-forms" style="display: none;">
+  <div class="form-item">
+    <p>Mental Health Support</p>
+    <a class="btn btn-form" href="https://forms.gle/3V3jqjwN2tgtki4m6" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Career Counselling</p>
+    <a class="btn btn-form" href="https://forms.gle/3V3jqjwN2tgtki4m6" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Personal Development</p>
+    <a class="btn btn-form" href="https://forms.gle/3V3jqjwN2tgtki4m6" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Academic Support</p>
+    <a class="btn btn-form" href="https://forms.gle/3V3jqjwN2tgtki4m6" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Wellness Programs</p>
+    <a class="btn btn-form" href="https://forms.gle/3V3jqjwN2tgtki4m6" target="_blank">Open Form</a>
+  </div>
+</div>
 </div>
 
+<!-- DEFERRAL AND WITHDRAWAL -->
 <div class="card">
 <h3>Deferral and Withdrawal from University</h3>
-<a class="btn" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open</a>
+<button class="btn btn-department" data-department="deferral">Visit Deferral & Withdrawal Department</button>
+<div class="department-forms" id="deferral-forms" style="display: none;">
+  <div class="form-item">
+    <p>Deferral Request</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Semester Break</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Withdrawal Request</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Readmission Application</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Documentation Request</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+</div>
 </div>
 
+<!-- BURSARY APPLICATION -->
 <div class="card">
 <h3>Bursary Application</h3>
-<a class="btn" href="https://forms.gle/VQNL6YSK1nGjfjNR6" target="_blank">Open</a>
+<button class="btn btn-department" data-department="bursary">Visit Bursary Department</button>
+<div class="department-forms" id="bursary-forms" style="display: none;">
+  <div class="form-item">
+    <p>Merit Bursary</p>
+    <a class="btn btn-form" href="https://forms.gle/VQNL6YSK1nGjfjNR6" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Need-Based Bursary</p>
+    <a class="btn btn-form" href="https://forms.gle/VQNL6YSK1nGjfjNR6" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Sports Bursary</p>
+    <a class="btn btn-form" href="https://forms.gle/VQNL6YSK1nGjfjNR6" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Emergency Bursary</p>
+    <a class="btn btn-form" href="https://forms.gle/VQNL6YSK1nGjfjNR6" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Appeal for Additional Support</p>
+    <a class="btn btn-form" href="https://forms.gle/VQNL6YSK1nGjfjNR6" target="_blank">Open Form</a>
+  </div>
+</div>
 </div>
 
+<!-- WORK-STUDY PROGRAM -->
 <div class="card">
 <h3>Work-Study Program</h3>
-<a class="btn" href="https://forms.gle/WZFE8HoBHUcJ3zoZ9" target="_blank">Open</a>
+<button class="btn btn-department" data-department="work-study">Visit Work-Study Department</button>
+<div class="department-forms" id="work-study-forms" style="display: none;">
+  <div class="form-item">
+    <p>Program Application</p>
+    <a class="btn btn-form" href="https://forms.gle/WZFE8HoBHUcJ3zoZ9" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Job Placement Request</p>
+    <a class="btn btn-form" href="https://forms.gle/WZFE8HoBHUcJ3zoZ9" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Schedule Change</p>
+    <a class="btn btn-form" href="https://forms.gle/WZFE8HoBHUcJ3zoZ9" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Performance Review</p>
+    <a class="btn btn-form" href="https://forms.gle/WZFE8HoBHUcJ3zoZ9" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Internship Placement</p>
+    <a class="btn btn-form" href="https://forms.gle/WZFE8HoBHUcJ3zoZ9" target="_blank">Open Form</a>
+  </div>
+</div>
 </div>
 
+<!-- EXAM CARDS -->
 <div class="card">
 <h3>Exam Cards</h3>
-<a class="btn" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open</a>
+<button class="btn btn-department" data-department="exam">Visit Exam Department</button>
+<div class="department-forms" id="exam-forms" style="display: none;">
+  <div class="form-item">
+    <p>Exam Card Request</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Special Exam Arrangement</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Exam Date Change Request</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Exam Result Query</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Supplementary Exam Application</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+</div>
 </div>
 
-
+<!-- RESEARCH GRANT -->
 <div class="card">
 <h3>Research Grant</h3>
-<a class="btn" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open</a>
+<button class="btn btn-department" data-department="research">Visit Research Department</button>
+<div class="department-forms" id="research-forms" style="display: none;">
+  <div class="form-item">
+    <p>Research Grant Application</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Project Proposal</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Budget Request</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Progress Report</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Final Report Submission</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+</div>
 </div>
 
+<!-- OTHER APPLICATIONS -->
 <div class="card">
 <h3>Other Applications</h3>
-<a class="btn" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open</a>
+<button class="btn btn-department" data-department="other">Visit Other Applications</button>
+<div class="department-forms" id="other-forms" style="display: none;">
+  <div class="form-item">
+    <p>Certificate Request</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Transcript Request</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>General Inquiry</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Alumni Registration</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+  <div class="form-item">
+    <p>Special Permission Request</p>
+    <a class="btn btn-form" href="https://forms.gle/eVfzWLFCxxkxAJkw7" target="_blank">Open Form</a>
+  </div>
+</div>
 </div>
 
 </div>
